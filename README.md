@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔹 Passionate about Data Analytics and Business Intelligence<br><br>🔹 Skilled in Excel, SQL, Python, and Power BI<br><br>🔹 Currently working on end-to-end data analysis projects<br><br>🔹 Interested in AI/ML and how data can drive decisions<br><br>🔹 Strong foundation in problem-solving, visualization, and reporting<br><br>🔹 Open to collaborations and new learning opportunities
+🔹 Passionate about Data Analytics and Business Intelligence<br><br>🔹 Skilled in SQL, Python, and Power BI<br><br>🔹 Currently working on end-to-end data analysis projects<br><br>🔹 Interested in AI/ML and how data can drive decisions<br><br>🔹 Strong foundation in problem-solving, visualization, and reporting<br><br>🔹 Open to collaborations and new learning opportunities
 
 
 ## 🌐 Socials:
@@ -16,7 +16,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-![FL Studio](https://img.shields.io/badge/FL_Studio-ff6600?style=for-the-badge&logo=flstudio&logoColor=white)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kanishkmehra&icon=0&color=0)](https://visitcount.itsvg.in)
